@@ -11,3 +11,5 @@
   3. 월별 편성표 : sklearn(GradientBoostingRegressor)
   
 - 결과 : 1차탈락
+
+- 최종 PPT : 2020_BigContest/데이터분석분야_챔피언리그_빅콘테스트팀_결과보고서.pdf
